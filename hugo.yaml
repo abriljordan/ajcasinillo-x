@@ -78,12 +78,10 @@ params:
         Content: Welcome to my blog
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
         - name: linkedin
-          url: "https://linkedin.com"
+          url: "https://www.linkedin.com/in/ajcasinillo"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/abriljordan"
 
     analytics:
         google:
