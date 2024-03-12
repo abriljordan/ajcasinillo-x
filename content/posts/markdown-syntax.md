@@ -7,8 +7,8 @@ tags:
   - markdown
   - syntax
   - example
-#ShowToc: true
-#TocOpen: true
+ShowToc: true
+tocopen: false
 tocside: "right"
 ---
 
